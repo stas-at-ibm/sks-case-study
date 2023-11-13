@@ -35,3 +35,4 @@ tfplandestroy
 .terraformrc
 terraform.rc
 secrets.env
+secrets
